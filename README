@@ -1,0 +1,94 @@
+# Hope Hands Charity Foundation Website
+
+## Student Information
+
+*Student Name:* YOUR NAME
+
+*Student Number:* YOUR STUDENT NUMBER
+
+*Module:* YOUR MODULE
+
+*Project:* Website Project - Part 1
+
+---
+
+## Project Overview
+
+Hope Hands Charity Foundation is a fictional charity organisation
+created for an academic website development project.
+
+The purpose of the website is to provide information about the
+organisation, its programmes and ways that community members can
+become involved.
+
+---
+
+## Website Goals
+
+The main goals of the website are:
+
+- Increase awareness of the organisation.
+- Explain the organisation's mission and vision.
+- Promote charity programmes.
+- Encourage volunteering.
+- Encourage donations and sponsorship.
+- Provide contact information.
+- Allow visitors to make enquiries.
+
+---
+
+## Target Audience
+
+The target audience includes:
+
+- Donors
+- Volunteers
+- Sponsors
+- Community members
+- Families
+- Businesses
+- Potential partners
+
+---
+
+## Website Pages
+
+The website contains five main pages:
+
+1. Home
+2. About Us
+3. Programmes
+4. Enquiry
+5. Contact
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+
+---
+
+## Project Structure
+
+```text
+HopeHandsCharity/
+│
+├── index.html
+├── about.html
+├── services.html
+├── enquiry.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│
+└── README.md
